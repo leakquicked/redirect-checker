@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/redirect-checker/actions/workflows/python-checks.yml/badge.svg)
+
 # Redirect Checker
 
 Review a manually copied redirect chain for scheme changes and unexpected hosts.
